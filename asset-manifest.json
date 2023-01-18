@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.73bb1e1d.css",
+    "main.js": "/ReactPortfolio/static/js/main.abaf4ed6.js",
+    "static/js/787.8003e335.chunk.js": "/ReactPortfolio/static/js/787.8003e335.chunk.js",
+    "static/media/weatherAppScreenshot.png": "/ReactPortfolio/static/media/weatherAppScreenshot.91258862c3c391b3fd5f.png",
+    "static/media/20220917_191414.jpg": "/ReactPortfolio/static/media/20220917_191414.70b7b4dab0a231efd77e.jpg",
+    "static/media/foodfinderapREADmescreenshot.png": "/ReactPortfolio/static/media/foodfinderapREADmescreenshot.f494888035bb4223fb37.png",
+    "static/media/Node_logo_NodeJS.png": "/ReactPortfolio/static/media/Node_logo_NodeJS.4436ba40a80064c56547.png",
+    "static/media/ccs_salon-homepage.png": "/ReactPortfolio/static/media/ccs_salon-homepage.8936baf75dc0d169f343.png",
+    "static/media/bakendpic.png": "/ReactPortfolio/static/media/bakendpic.30eb8a47ec4480d69ab7.png",
+    "static/media/placeholder.png": "/ReactPortfolio/static/media/placeholder.f0d5d4c3a7806cb43cf2.png",
+    "static/media/grasshopperImage.jpg": "/ReactPortfolio/static/media/grasshopperImage.cdbd5585d9ac3e7c8eaa.jpg",
+    "static/media/readmescreenshot.png": "/ReactPortfolio/static/media/readmescreenshot.3f3a672db28eb03adebc.png",
+    "index.html": "/ReactPortfolio/index.html",
+    "main.73bb1e1d.css.map": "/ReactPortfolio/static/css/main.73bb1e1d.css.map",
+    "main.abaf4ed6.js.map": "/ReactPortfolio/static/js/main.abaf4ed6.js.map",
+    "787.8003e335.chunk.js.map": "/ReactPortfolio/static/js/787.8003e335.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73bb1e1d.css",
+    "static/js/main.abaf4ed6.js"
+  ]
+}
