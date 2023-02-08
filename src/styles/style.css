@@ -126,7 +126,7 @@ h3 {
 
 .project-card{
     width: 400px;
-    height: 350px;
+    height: auto-fit;
     box-shadow: 5px 5px 20px black;
     justify-content: space-around;
     align-items: column;
@@ -178,4 +178,12 @@ footer {
 a:hover {
     cursor: pointer;
     color: rgb(131, 40, 236);
+}
+
+button {
+    display: flex;
+    width: 200px;
+    height: 100px;
+    background-color: aquamarine;
+    flex:auto;
 }

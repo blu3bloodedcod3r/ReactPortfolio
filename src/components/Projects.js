@@ -22,7 +22,7 @@ export default function Projects() {
             image: "weatherAppScreenshot",
             repolink: "https://github.com/blu3bloodedcod3r/weatherApp",
             applink: "https://blu3bloodedcod3r.github.io/weatherApp/",
-            description: "Using fetch API's, this app checks your current day and 4-day futurecast. Your searches will produce a button so that you may view the weather for that city by just clicking on the name of the city."
+            description: "Using fetch API's, JavaScript, HTML and CSS, this app checks your current day and 4-day futurecast. Your searches will produce a button so that you may view the weather for that city by just clicking on the name of the city."
         },
         {
             name: "CeeCee's Salon",
@@ -45,7 +45,7 @@ export default function Projects() {
             {
                 projects.map((project, i ) => (
                     <Project project={project} key={i}/>
-
+                    
                    
                 ))
             }
