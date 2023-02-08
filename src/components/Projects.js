@@ -31,6 +31,13 @@ export default function Projects() {
             applink: "https://arcane-mesa-34792.herokuapp.com",
             description: "Group created bussiness website to help make appointments for a hairstylist using Express.js, Handlebars, mySQL2, Sequeilize and Bcrypt."
         },
+        {
+            name: "CC's Salon",
+            image: "homepage",
+            repolink: "https://github.com/blu3bloodedcod3r/CCsSalon",
+            applink: "https://projectsalon.herokuapp.com/",
+            description: "Group re-created bussiness website to help make appointments for a hairstylist using ReactJS, Stripe for deposits on appointments and Nodemailer for appointment confirmations."
+        }
     ]);
     
     return (

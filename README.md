@@ -17,7 +17,7 @@
 
 ## About me
 
-This section tells what I am looking for in future work as a Web-Developer.
+This section tells what I am looking for in future work as a Web-Developer and a little about my past positions held.
 
 ## Screenshot
 
