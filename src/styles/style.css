@@ -54,7 +54,7 @@ nav {
     margin-top: 25px;
     width: 200px;
     border-radius: 25px;
-    height: 175px;
+    height: 100px;
 }
 
 .certifications {
@@ -125,7 +125,7 @@ h3 {
 }
 
 .project-card{
-    width: 400px;
+    width: 600px;
     height: auto-fit;
     box-shadow: 5px 5px 20px black;
     justify-content: space-around;
@@ -140,6 +140,7 @@ h3 {
     justify-content: space-around;
     margin: 10px;
     transition: 1s;
+    font-size: 20px;
 }
 
 @media only screen and (max-width: 996px) {

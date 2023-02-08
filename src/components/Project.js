@@ -7,6 +7,7 @@ export default function Project ({project}) {
             <section className="project-container ">
                 <p>{project.description}</p>
                 <a href={project.repolink} target="_blank">GitHub Repo</a>
+                <br></br>
                 <a href={project.applink} target="_blank">App Link</a>
                 <img className="proj-img" src={require(`../images/${project.image}.png`)}  />
             </section>
